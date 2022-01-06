@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/MedDesign-white.svg"
 phone = "+91-nine*90888912-One*"
-theme_color = "#41228e"
+theme_color = "#2012f5"
 [params.contact]
 enable = false
 form_action = "#"
