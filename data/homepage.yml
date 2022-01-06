@@ -12,7 +12,7 @@ about:
     label: Get in touch
     URL: contact
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
