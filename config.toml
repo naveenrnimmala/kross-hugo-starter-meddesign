@@ -21,9 +21,9 @@ name = "Contact"
 weight = 5
 [params]
 address = "Hyderabad, Telangana, India 500081"
-author = "Johnathan Smith"
+author = "MedDesign Team"
 copyright = "Copyright &copy; 2022 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+description = "Medical flyer, brochure or poster designers"
 email = "team@medcourse.in"
 google_analitycs_id = "Your ID"
 home = "Home"
