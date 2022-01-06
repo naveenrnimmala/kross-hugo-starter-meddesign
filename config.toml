@@ -22,7 +22,7 @@ weight = 5
 [params]
 address = "Hyderabad, Telangana, India 500081"
 author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "team@medcourse.in"
 google_analitycs_id = "Your ID"
@@ -31,7 +31,7 @@ logo = "images/logo.png"
 phone = "+91-nine*90888912-One*"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
