@@ -8,8 +8,7 @@ work_process:
     content: Lets discuss your needs and prepare a plan
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Once planned, we shall share some creative designs and get your approval.
   - title: Deliver
     icon: images/icons/print.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
