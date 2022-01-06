@@ -11,8 +11,8 @@ work_process:
     content: Once planned, we shall share some creative designs and get your approval.
   - title: Deliver
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Once approved, your designs will be ready to download for all your social
+      media needs (in ideal resolution).
 team:
   enable: true
   title: My Team
