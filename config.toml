@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "team@medcourse.in"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/MedDesign-white.svg"
 phone = "+91-nine*90888912-One*"
 theme_color = "#41228e"
 [params.contact]
