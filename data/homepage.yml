@@ -3,15 +3,14 @@ banner:
   title: Hi! We're <br> MedDesign. <br> Let's work <br> together.
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: |-
+    A good design is essential for a stranger to notice your business. Gone are the days where mouth-publicity (peer to peer) was the sole driver of clients to your business. Now-a-days, everyone looks up your info (feedback, rating, advertisements) before knocking your door. We will help you create eye catching portfolios, posters, creatives, text based intro videos and stunning power point presentations for your use case.
+
+    Get in touch with us for details.
   button:
     enable: true
-    label: know more
-    URL: about
+    label: Get in touch
+    URL: contact
 skill:
   enable: true
   title: Skills
